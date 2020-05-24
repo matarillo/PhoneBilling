@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIIiPrnJqP7U3CweVVaOsVFyjCVXtlaJxV9DFd17tGAXPeX5HbLL6j6tc5XjnRsxszWXlHu8Xs+vVB0UqCYcdg==",
+  "success": true,
+  "projectFilePath": "/home/wsl/github/PhoneBilling/cs/Phone/Phone.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/wsl/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
