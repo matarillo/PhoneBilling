@@ -1,4 +1,0 @@
-/home/wsl/github/PhoneBilling/cs/Phone/obj/Debug/netstandard2.0/Phone.csprojAssemblyReference.cache
-/home/wsl/github/PhoneBilling/cs/Phone/obj/Debug/netstandard2.0/Phone.AssemblyInfoInputs.cache
-/home/wsl/github/PhoneBilling/cs/Phone/obj/Debug/netstandard2.0/Phone.AssemblyInfo.cs
-/home/wsl/github/PhoneBilling/cs/Phone/obj/Debug/netstandard2.0/Phone.csproj.CoreCompileInputs.cache
